@@ -10,4 +10,4 @@
 
 用户在这些平台上可以根据影片类别、演员等条件快速筛选，找到自己喜爱的内容。每部影片都详细显示播放时长、主演和画质等信息，保证观看体验达到最佳。平台还支持高清播放，并自动根据网络条件优化画质，确保流畅播放。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/thuy20250708/thuy17 ）</span>
